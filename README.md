@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Dandapanthula Manideep
 
-Aspiring **MERN Stack Developer** with a strong passion for building scalable, full-stack web applications. I enjoy solving problems using DSA and creating clean, responsive user experiences. Always learning, always building!
+**MERN Stack Developer** with a strong passion for building scalable, full-stack web applications. Skilled in developing clean, responsive user interfaces and solving complex problems using Data Structures and Algorithms. Continuously learning and improving while building real-world solutions.
 
 ---
 
@@ -42,10 +42,21 @@ Aspiring **MERN Stack Developer** with a strong passion for building scalable, f
 
 ---
 
+## 🧠 LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/Manideep_1811/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Manideep_1811?theme=dark&font=Baloo+Bhai&ext=contest" alt="Leetcode Stats" />
+  </a>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 Email: dandapanthulamanideep@gmail.com  
-- 🧑‍💻 [GitHub](https://github.com/ManideepDandapanthula)
+- 🧑‍💻 [GitHub](https://github.com/ManideepDandapanthula)  
+- 💡 [LeetCode](https://leetcode.com/u/Manideep_1811/)
 
 ---
 
